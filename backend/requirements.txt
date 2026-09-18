@@ -1,0 +1,6 @@
+flask
+flask-bcrypt
+flask-jwt-extended
+pymongo
+python-dotenv
+google-generativeai
